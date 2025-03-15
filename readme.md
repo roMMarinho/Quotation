@@ -11,23 +11,32 @@
 **<h3>1. Cadastro de corretor e avaliador</h3>**
 <ul>
     <li>O administrador pode cadastrar os corretores que irão fazer as propostas para clientes.</li>
-    <li>O administrador pode cadastrar os avaliadores responsaveis pela verificação dos documentos enviados pelos clientes nas propostas.</ul>li>
+    <li>O administrador pode cadastrar os avaliadores responsaveis pela verificação dos documentos enviados pelos clientes nas propostas.</li>
+</ul>
+
+**<h3>2. Criação de propostas</h3>**
 <ul>
+    <li>O corretor pode criar propostas para os clientes onde deve colocar os dados do cliente e selecionar o tipo do benefício.</li>
+</ul>
 
+**<h3>3. Averiguação do cliente</h3>**
+<ul>
+    <li>Após o corretor finalizar o cadastro da proposta, o cliente deve receber no email, uma senha, a qual ele deverá usar para acessar o site, juntamente com o seu CPF, para enviar os documentos obrigatórios.</li>
+</ul>
 
+**<h3>4. Avaliar propsotas</h3>**
 
-- O sistema deve ter 4 tipos de usuários: administrador, avaliador, corretor e cliente.
-  
-- O sistema deve ter 4 interfaces para os respectivos usuários.
-  
-- O administrador é quem deve criar os acessos de avaliador e corretor.
-  
-- O sistema deve permitir corretores fazerem cotações de propostas para clientes.
-  
-- No momento da cotação sistema deve pedir os seguintes dados, CNPJ, nome da empresa, nome do representante, CPF do representante,
-  
-- O avaliador irá avaliar a veracidade dos documentos enviados pelos clientes.
-  
-- O acesso de cliente será criado pelo sistema após ele informar o seu CPF.
+<ul>
+    <li>Após </li>
+</ul>
 
+**<h3>5. Portal das vendas</h3>**
+<ul>
+    <li>O sistema deve ter uma tela disponivel tanto para administradores, mas principalmente para os corretores para mostrar todas as propostas feitas e seus status, sendo aprovado, em análise ou cancelado.</li>
+</ul>
+
+**<h3>6. Menu de cadastrados</h3>**
+<ul>
+    <li>O sistema deve permitir o admistrador ver, alterar, excluir ou inativar corretores, avaliadores e outros acessos de administrador.</li>
+</ul>
 
