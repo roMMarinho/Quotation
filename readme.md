@@ -40,3 +40,12 @@
     <li>O sistema deve permitir o admistrador ver, alterar, excluir ou inativar corretores, avaliadores e outros acessos de administrador.</li>
 </ul>
 
+# Diagramas
+
+<h2>Modelo Entidade e Relacionamento</h2>
+<h3>1. Entidades:</h3>
+<ul>
+<li>Usuario, Personal, Lista de exercicio, Exercicio, Itens da exercicio e contrato_personal_usuario</li>
+</ul>
+
+![modelo_PI3][(https://github.com/user-attachments/assets/65f3233d-90a9-4853-ba82-c9428deaf129)](https://github.com/roMMarinho/Quotation/blob/main/Diagramas/MER%20-%20Modelo%20Entidade%20e%20Relacionamento.jpg?raw=true)
