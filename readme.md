@@ -45,7 +45,7 @@
 <h2>Modelo Entidade e Relacionamento</h2>
 <h3>1. Entidades:</h3>
 <ul>
-<li>Usuario, Personal, Lista de exercicio, Exercicio, Itens da exercicio e contrato_personal_usuario</li>
+<li>Administrado, Cliente, Avaliador, Corretor, Proposta</li>
 </ul>
 
-![modelo_PI3][(https://github.com/user-attachments/assets/65f3233d-90a9-4853-ba82-c9428deaf129)](https://github.com/roMMarinho/Quotation/blob/main/Diagramas/MER%20-%20Modelo%20Entidade%20e%20Relacionamento.jpg?raw=true)
+![modelo_PI3](https://github.com/roMMarinho/Quotation/blob/main/Diagramas/MER%20-%20Modelo%20Entidade%20e%20Relacionamento.jpg?raw=true)
