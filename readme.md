@@ -24,10 +24,10 @@
     <li>Após o corretor finalizar o cadastro da proposta, o cliente deve receber no email, uma senha, a qual ele deverá usar para acessar o site, juntamente com o seu CPF, para enviar os documentos obrigatórios.</li>
 </ul>
 
-**<h3>4. Avaliar propsotas</h3>**
+**<h3>4. Avaliar propostas</h3>**
 
 <ul>
-    <li>Após </li>
+    <li>Após o cliente enviar os documentos obrigatórios o avaliador deve averiguar os anexos, para ver se correspondem a critérios de conformidade.</li>
 </ul>
 
 **<h3>5. Portal das vendas</h3>**
