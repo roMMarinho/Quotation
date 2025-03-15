@@ -45,7 +45,7 @@
 <h2>Modelo Entidade e Relacionamento</h2>
 <h3>1. Entidades:</h3>
 <ul>
-<li>Administrado, Cliente, Avaliador, Corretor, Proposta</li>
+<li>Administrado, Cliente, Avaliador, Corretor e Proposta</li>
 </ul>
 
 ![modelo_PI3](https://github.com/roMMarinho/Quotation/blob/main/Diagramas/MER%20-%20Modelo%20Entidade%20e%20Relacionamento.jpg?raw=true)
