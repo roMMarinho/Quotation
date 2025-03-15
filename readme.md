@@ -1,6 +1,20 @@
 # Cotação de Propostas de Saúde
 
-Este projeto contempla um sistema para empresas da área de saúde que querem oferecer seus serviços através dos convênios de saúde.
+**<h2>Lista de funcionalidades</h2>**
+
+**<p>Objetivo do Projeto</p>**
+
+<p>Este projeto contempla um sistema para empresas da área de saúde que querem oferecer seus serviços através dos convênios de saúde.</p>
+
+**<h2>Funcionalidades do Sistema</h2>**
+
+**<h3>1. Cadastro de corretor e avaliador</h3>**
+<ul>
+    <li>O administrador pode cadastrar os corretores que irão fazer as propostas para clientes.</li>
+    <li>O administrador pode cadastrar os avaliadores responsaveis pela verificação dos documentos enviados pelos clientes nas propostas.</ul>li>
+<ul>
+
+
 
 - O sistema deve ter 4 tipos de usuários: administrador, avaliador, corretor e cliente.
   
